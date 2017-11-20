@@ -1,0 +1,26 @@
+
+The length of the path from A to W: 6.77km	ADINOUXW
+The length of the path from B to W: 7.08km	BGLKPTUXW
+The length of the path from C to W: 7.84km	CHMLKPTUXW
+The length of the path from D to W: 5.57km	DINOUXW
+The length of the path from E to W: 6.08km	EDINOUXW
+The length of the path from F to W: 5.43km	FKPTUXW
+The length of the path from G to W: 5.96km	GLKPTUXW
+The length of the path from H to W: 6.81km	HMLKPTUXW
+The length of the path from I to W: 4.25km	INOUXW
+The length of the path from J to W: 4.91km	JKPTUXW
+The length of the path from K to W: 4.29km	KPTUXW
+The length of the path from L to W: 4.95km	LKPTUXW
+The length of the path from M to W: 5.87km	MLKPTUXW
+The length of the path from N to W: 3.35km	NOUXW
+The length of the path from O to W: 2.52km	OUXW
+The length of the path from P to W: 2.96km	PTUXWno print from Q to W
+
+The length of the path from R to W: 4.17km	RSZUXW
+The length of the path from S to W: 3.3km	SZUXW
+The length of the path from T to W: 2.34km	TUXW
+The length of the path from U to W: 1.22km	UXW
+The length of the path from V to W: 1.15km	VXW
+The length of the path from X to W: 0.57km	XW
+The length of the path from Y to W: 1.97km	YXW
+The length of the path from Z to W: 2.92km	ZUXW

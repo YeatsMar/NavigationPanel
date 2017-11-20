@@ -1,0 +1,26 @@
+
+The length of the path from A to U: 5.55km	ADINOU
+The length of the path from B to U: 5.86km	BGLKPTU
+The length of the path from C to U: 6.62km	CHMLKPTU
+The length of the path from D to U: 4.35km	DINOU
+The length of the path from E to U: 4.86km	EDINOU
+The length of the path from F to U: 4.21km	FKPTU
+The length of the path from G to U: 4.74km	GLKPTU
+The length of the path from H to U: 5.59km	HMLKPTU
+The length of the path from I to U: 3.03km	INOU
+The length of the path from J to U: 3.69km	JKPTU
+The length of the path from K to U: 3.07km	KPTU
+The length of the path from L to U: 3.73km	LKPTU
+The length of the path from M to U: 4.65km	MLKPTU
+The length of the path from N to U: 2.13km	NOU
+The length of the path from O to U: 1.3km	OU
+The length of the path from P to U: 1.74km	PTU
+The length of the path from Q to U: 2.05km	QTU
+The length of the path from R to U: 2.78km	RQTU
+The length of the path from S to U: 2.08km	SZU
+The length of the path from T to U: 1.12km	TU
+The length of the path from V to U: 0.99km	VU
+The length of the path from W to U: 1.22km	WXU
+The length of the path from X to U: 0.65km	XU
+The length of the path from Y to U: 2.05km	YXU
+The length of the path from Z to U: 1.7km	ZU

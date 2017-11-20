@@ -1,0 +1,26 @@
+
+The length of the path from A to O: 59.86mins	ADEFKTPO
+The length of the path from B to O: 34.15mins	BGLRQPO
+The length of the path from C to O: 60.72mins	CHGLRQPO
+The length of the path from D to O: 42.72mins	DEFKTPO
+The length of the path from E to O: 35.43mins	EFKTPO
+The length of the path from F to O: 25.72mins	FKTPO
+The length of the path from G to O: 32.15mins	GLRQPO
+The length of the path from H to O: 46.01mins	HGLRQPO
+The length of the path from I to O: 24.72mins	INO
+The length of the path from J to O: 30.58mins	JKTPO
+The length of the path from K to O: 21.72mins	KTPO
+The length of the path from L to O: 29.15mins	LRQPO
+The length of the path from M to O: 42.29mins	MLRQPO
+The length of the path from N to O: 11.86mins	NO
+The length of the path from P to O: 7.86mins	PO
+The length of the path from Q to O: 16.72mins	QPO
+The length of the path from R to O: 27.15mins	RQPO
+The length of the path from S to O: 24.01mins	SQPO
+The length of the path from T to O: 16.72mins	TPO
+The length of the path from U to O: 18.57mins	UO
+The length of the path from V to O: 32.71mins	VUO
+The length of the path from W to O: 36.0mins	WXUO
+The length of the path from X to O: 27.86mins	XUO
+The length of the path from Y to O: 30.15mins	YZRQPO
+The length of the path from Z to O: 29.15mins	ZRQPO
